@@ -1,0 +1,5 @@
+{
+  "name": "Intelligence Identifier",
+  "description": "An interactive assessment tool to identify your dominant intelligence types based on Howard Gardner's Multiple Intelligences theory.",
+  "requestFramePermissions": []
+}
